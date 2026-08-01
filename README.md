@@ -19,3 +19,8 @@ If you want to build the executable yourself, follow these steps:
 ### 1. Install PyInstaller
 ```bash
 pip install pyinstaller
+
+## 📹 Tutorial / Video Demo
+
+Watch the full tutorial on how this app was built and packaged:
+👉 [Watch the video on YouTube](https://ton-lien-ici.com)
