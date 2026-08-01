@@ -23,4 +23,4 @@ pip install pyinstaller
 ## 📹 Tutorial / Video Demo
 
 Watch the full tutorial on how this app was built and packaged:
-👉 [Watch the video on YouTube](https://ton-lien-ici.com)
+👉 [Watch the video on YouTube] https://youtu.be/QKKevQs2Scc
